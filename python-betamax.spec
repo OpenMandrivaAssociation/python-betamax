@@ -8,7 +8,7 @@ URL:		https://pypi.org/project/betamax/
 Source0:	https://files.pythonhosted.org/packages/source/b/betamax/betamax-%{version}.tar.gz
 BuildRequires:	pkgconfig(python3)
 BuildRequires:	python%{pyver}dist(pip)
-BuildRequires:  python%{pyver}dist(pytest)
+#BuildRequires:  python%{pyver}dist(pytest)
 BuildRequires:  python%{pyver}dist(requests)
 BuildRequires:	python%{pyver}dist(setuptools)
 BuildRequires:	python%{pyver}dist(wheel)
