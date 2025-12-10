@@ -1,7 +1,7 @@
 Summary:	A VCR imitation for python-requests
 Name:		python-betamax
 Version:	0.9.0
-Release:	1
+Release:	2
 License:	Apache-2.0
 Group:		Development/Python
 URL:		https://pypi.org/project/betamax/
